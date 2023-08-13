@@ -1,0 +1,5 @@
+<archimate:ApplicationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Event (gebeurtenis)"
+    id="id-a2fee2728a3e4225983a2ad972ad9fd4"
+    documentation="Een wijziging in de toestand van de applicatie."/>

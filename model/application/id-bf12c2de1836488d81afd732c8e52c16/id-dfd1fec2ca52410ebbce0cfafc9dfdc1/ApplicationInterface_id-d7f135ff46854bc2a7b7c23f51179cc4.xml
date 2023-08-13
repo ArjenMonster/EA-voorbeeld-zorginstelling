@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Interface (interface)"
+    id="id-d7f135ff46854bc2a7b7c23f51179cc4"
+    documentation="Een toegangspunt waar applicatieservices beschikbaar worden gemaakt voor een gebruiker, een andere applicatie of een node."/>

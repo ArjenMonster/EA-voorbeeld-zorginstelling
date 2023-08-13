@@ -1,0 +1,6 @@
+<archimate:SketchModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="00. Infrastructuur"
+    id="id-7bf14fa5aa844ce98f3c41787d8cbce2"
+    documentation="Dit niveau heeft betrekking op de technische infrastructuur waarbinnen de informatiesystemen van de betrokken partijen zich bevinden, zoals het netwerk, de servers en de database-engine. Het betreft de niet-zorgspecifieke ICT-componenten. Hoe wordt op technisch niveau mogelijk gemaakt dat er informatie kan worden uitgewisseld tussen de betrokken partijen? Welke communicatie-infrastructuur is hiervoor nodig? Welke mechanismen van informatie-uitwisseling worden gekozen? Deze afspraken worden gemaakt door ICT-professionals."
+    background="0"/>
